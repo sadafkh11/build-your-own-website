@@ -71,3 +71,7 @@ body {
 .section-title {
   margin-bottom: 0;
 }
+
+.beep {
+  color: purple;
+}
